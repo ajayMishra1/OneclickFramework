@@ -1,0 +1,6 @@
+framework module OneclickFramework {
+  umbrella header "OneclickFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

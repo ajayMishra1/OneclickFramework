@@ -1,0 +1,16 @@
+PODS:
+  - OneclickFramework (0.1.0)
+
+DEPENDENCIES:
+  - OneclickFramework (from `../`)
+
+EXTERNAL SOURCES:
+  OneclickFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OneclickFramework: e21d5fc66902125c14157978865be6201d2290cb
+
+PODFILE CHECKSUM: 6d1ba0a8a2305a88d06cb6d989bbd8345ff4cc58
+
+COCOAPODS: 1.5.3
