@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'OneclickFramework_Example' do
+  pod 'OneclickFramework', :path => '../'
+
+  target 'OneclickFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
