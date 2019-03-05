@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1363834175A48FA0E057FABB /* OneclickFramework.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = OneclickFramework.podspec; path = ../OneclickFramework.podspec; sourceTree = "<group>"; };
+		1363834175A48FA0E057FABB /* OneclickFramework.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = OneclickFramework.podspec; path = ../OneclickFramework.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2E76BA0D73EF0B56719096E3 /* Pods-OneclickFramework_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneclickFramework_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-OneclickFramework_Tests/Pods-OneclickFramework_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		32372DE303585E1200A81A46 /* Pods-OneclickFramework_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneclickFramework_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-OneclickFramework_Example/Pods-OneclickFramework_Example.release.xcconfig"; sourceTree = "<group>"; };
 		379A166371C241E16601FCC4 /* Pods_OneclickFramework_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OneclickFramework_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -45,8 +45,8 @@
 		659801215BFE55913F314F15 /* Pods-OneclickFramework_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneclickFramework_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OneclickFramework_Tests/Pods-OneclickFramework_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8931B4C9839AD223370977BC /* Pods_OneclickFramework_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OneclickFramework_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DCA28CB5C3C5DCF47A3AD32 /* Pods-OneclickFramework_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneclickFramework_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OneclickFramework_Example/Pods-OneclickFramework_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		B33A6A568AA9BBD5C75AA517 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		D25864C0DF1D3E5079DC9B4A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		B33A6A568AA9BBD5C75AA517 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D25864C0DF1D3E5079DC9B4A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
